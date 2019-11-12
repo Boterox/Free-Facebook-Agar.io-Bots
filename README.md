@@ -35,8 +35,8 @@ VPS
 -------
 1. I recommend using a Ubuntu 18.04 LTS from DigitalOcean. You can get one for $5/month and you can use this [link](https://m.do.co/c/fa7a805f6e60) to get $50 on the platform
 2. Run `sudo apt install git` command
-3. Run `git clone https://github.com/xN3BULA/free-agario-bots.git` command
-4. Run `cd free-agario-bots` command
+3. Run `git clone https://github.com/Boterox/Free-Facebook-Agar.io-Bots.git` command
+4. Run `cd Free-Facebook-Agar.io-Bots` command
 5. Run `sudo chmod +x install.sh` command
 6. Run `sudo ./install.sh` command
 7. Run `node server` command and leave the process running
